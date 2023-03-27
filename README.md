@@ -1,1 +1,3 @@
 # Crime
+
+edges.csv is what you upload to gephi...
